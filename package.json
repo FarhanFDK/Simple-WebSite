@@ -7,18 +7,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "publishConfig": { 
-    "registry": "https://npm.pkg.github.com/"
-   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/FarhanFDK/Simple-WebSite.git"
   },
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/"
+   },
   "author": "FarhanFDK",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/FarhanFDK/Simple-WebSite/issues"
   },
   "homepage": "https://github.com/FarhanFDK/Simple-WebSite#readme"
+  
 }
 
