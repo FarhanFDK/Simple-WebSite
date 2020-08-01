@@ -11,8 +11,13 @@ body{
 div{
 
 }
-.header{
 
+.header{
+    background: ;
+    top: 0;
+    right: 0;
+    left: 0;
+    position: absolute;
 }
 
 .container{
@@ -20,5 +25,9 @@ div{
 }
 
 .footer{
-
+    background: ;
+    bottom: ;
+    right: 0;
+    left: 0;
+    position: relative;
 }
