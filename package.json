@@ -1,0 +1,19 @@
+{
+  "name": "website-template",
+  "version": "1.0.0",
+  "description": "This is a free template you can use, It saves a lot of time, but remember this is not a ready website!It only contains NECESSARY TAGs for a simple HTML Page.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FarhanFDK/Simple-WebSite.git"
+  },
+  "author": "FarhanFDK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FarhanFDK/Simple-WebSite/issues"
+  },
+  "homepage": "https://github.com/FarhanFDK/Simple-WebSite#readme"
+}
