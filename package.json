@@ -1,4 +1,5 @@
 {
+  
   "name": "website-template",
   "version": "1.0.0",
   "description": "This is a free template you can use, It saves a lot of time, but remember this is not a ready website!It only contains NECESSARY TAGs for a simple HTML Page.",
@@ -6,6 +7,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/"
+   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/FarhanFDK/Simple-WebSite.git"
@@ -17,3 +21,4 @@
   },
   "homepage": "https://github.com/FarhanFDK/Simple-WebSite#readme"
 }
+
