@@ -2,7 +2,7 @@
   
   "name": "website-template",
   "version": "1.0.0",
-  "description": "This is a free template you can use, It saves a lot of time, but remember this is not a ready website!It only contains NECESSARY TAGs for a simple HTML Page.",
+  "description": "This is a free template you can use, It saves a lot of time!",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
