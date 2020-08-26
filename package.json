@@ -1,7 +1,7 @@
 {
-  "name": "login1",
+  "name": "login2",
   "version": "1.0.0",
-  "description": "Template for login form",
+  "description": "Another login provided for free!",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
